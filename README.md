@@ -57,7 +57,6 @@ Script Python:
   TensorFlow, Keras
   PyTorch
   Sentencepiece, Openpyxl, Scikit-Learn
-  Resultados y Conclusiones
   ```
-## Conclusiones
+## Resultados y Conclusiones
 El proyecto demuestra el proceso de fine-tuning aplicado a tareas de NLP en dominios específicos (legal y Fake News). Se obtienen métricas de evaluación que permiten analizar la eficacia del modelo entrenado. La metodología puede servir como base para futuros experimentos o aplicaciones en procesamiento de lenguaje natural.
